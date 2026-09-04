@@ -21,6 +21,8 @@ accessModel:
   source: []
   generated: '2026-07-22'
   method: derived
+  source:
+  - {url: 'https://t.cn', status: 301, note: 'declared website redirects to https://passport.weibo.com/visitor/visitor?entry=miniblog&a=enter&url=https%3A%2F%2Fweibo.com%2F&domain=weibo.com&ua=APIs.io-website-probe%2F1.0%20%28%2Bhttps%3A%2F%2Fapis.io%29&_rand=1788454188696&sudaref= — a different registrable domain (t.cn -> weibo.com), possible rename or acquisition (probed 2026-09-03, roadmap#169)'}
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/t.png
 name: t
 description: t is a company surfaced as a portfolio company of qiming and added to the API Evangelist
